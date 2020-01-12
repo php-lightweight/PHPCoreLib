@@ -1,0 +1,2 @@
+# PHPCoreLib
+PHPCore Library
